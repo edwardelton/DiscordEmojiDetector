@@ -7,7 +7,7 @@
 ----
 
 <p align="center">
-    <img src="https://s.abcnews.com/images/US/emoji-1-abc-221220_1671573538915_hpEmbed_1x1_992.jpg" alt="Emoji" width="500px"/>
+    <img src="https://photos5.appleinsider.com/gallery/50380-99014-emoj-xl.jpg" alt="Emoji" width="500px"/>
 </p>
 
 <br/>
@@ -25,9 +25,9 @@
 
 <p align="center">
     <b>Informations</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/edwardelton/DiscordEmojiDetector?color=7143de">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/edwardelton/DiscordEmojiDetector?color=7143de">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edwardelton/DiscordEmojiDetector?color=7143de">
-    <img alt="GitHub" src="https://img.shields.io/github/license/edwardelton/DiscordEmojiDetector?color=7143de">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edwardelton/DiscordEmojiDetector?color=7143de">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/edwardelton/DiscordEmojiDetector?color=0aa2fa">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/edwardelton/DiscordEmojiDetector?color=0aa2fa">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edwardelton/DiscordEmojiDetector?color=0aa2fa">
+    <img alt="GitHub" src="https://img.shields.io/github/license/edwardelton/DiscordEmojiDetector?color=0aa2fa">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edwardelton/DiscordEmojiDetector?color=0aa2fa">
 </p>
